@@ -57,3 +57,8 @@ Este projeto explora diferentes funcionalidades do microcontrolador RP2040, com 
 **Feedback Visual e Auditivo**:
 
 - Observe as mudanças no display, LEDs e no Serial Monitor conforme interage com os botões e caracteres.
+
+**LINK DOS VÍDEOS:** 
+
+- https://youtube.com/shorts/Tbu5z-IPoCY?si=K4kDmrXccKXMPK4L
+-https://youtube.com/shorts/_S1kGdJBPKI?si=MrggB9mVcV45lK8R
